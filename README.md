@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Divya Shivankar
+<h2>👋 Hi, I'm Divya Shivankar</h2>
 
 🚀 DevOps Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform | Jenkins
 
